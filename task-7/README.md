@@ -7,3 +7,6 @@ I started searching in google all about what I needed. I found a code,taking it 
 After finishing sliding tabs portion with text in the tabs,I started adding images to my tabs. After adding images to my tabs I thought that would be enough to submit my task. But in the given sample UI they represented sliding dots in different format so I started searching for that type of representation.
 
 I refered flutter official documentation and edited my code. So finally I changed sliding dots representation from simple dot indicator format to expanding dot indicator format.
+
+![alt-text](D:\Amfoss tasks\task-7\My sample UI.gif)
+
