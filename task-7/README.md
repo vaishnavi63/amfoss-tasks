@@ -10,5 +10,5 @@ I refered flutter official documentation and edited my code. So finally I change
 
 ## My sample UI
 
-![My sample UI](https://gph.is/g/aXLw9bp)
+![My sample UI](https://github.com/vaishnavi63/amfoss-tasks/blob/main/task-7/My%20sample%20UI.gif)
 
