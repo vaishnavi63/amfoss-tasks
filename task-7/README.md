@@ -8,5 +8,5 @@ After finishing sliding tabs portion with text in the tabs,I started adding imag
 
 I refered flutter official documentation and edited my code. So finally I changed sliding dots representation from simple dot indicator format to expanding dot indicator format.
 
-![alt-text](D:\Amfoss tasks\task-7\My sample UI.gif)
+![My sample UI] (https://gph.is/g/aXLw9bp)
 
